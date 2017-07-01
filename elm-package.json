@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "Library for representing natural numbers",
-    "repository": "https://github.com/grrinchas/elm-natural.",
+    "repository": "https://github.com/grrinchas/elm-natural.git",
     "license": "BSD3",
     "source-directories": [
         "src"
